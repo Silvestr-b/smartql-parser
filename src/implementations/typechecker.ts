@@ -66,4 +66,5 @@ class TypeChecker implements parsers.ITypeChecker {
 }
 
 
-export { TypeChecker } 
+export { TypeChecker }
+ 
